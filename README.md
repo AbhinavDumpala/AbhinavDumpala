@@ -1,263 +1,178 @@
 <div align="center">
+  <img src="https://img.shields.io/badge/Pole%20Position-Abhinav%20Dumpala-ff1801?style=for-the-badge&logo=formula1&logoColor=white" alt="Pole Position" />
 
-<img src="https://img.shields.io/badge/Paddock%20Pass-Abhinav%20Dumpala-ff1801?style=for-the-badge&logo=formula1&logoColor=white" alt="Abhinav Dumpala" />
+  <h1>🏁👋 Hi, I’m Abhinav Dumpala</h1>
+  <p>I’m a Data Scientist and M.S. Data Science student at the University of Utah, passionate about using data and machine learning to solve real-world problems.<br/>
+  My work bridges data engineering, predictive modeling, and automation, with experience building intelligent systems that improve efficiency and decision-making.</p>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Animated track" width="600" />
-
-# 🏁 Abhinav Dumpala — Data Science Driver on the AI Grid
-
-**Master's student in Data Science @ University of Utah | Engineering intelligent race strategies for data-driven decisions.**
-
-<sub>[Email](mailto:abhinavvv.d@gmail.com) · [LinkedIn](https://linkedin.com/in/abhinavdumpala) · Salt Lake City, Utah</sub>
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Animated Track" width="600" />
 </div>
 
 ---
 
+## 🔬 Current Focus
+
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Race%20Philosophy-ff1801?style=for-the-badge&logo=automattic&logoColor=white" alt="Race Philosophy" /><br/>
-      <sub>Pair human intuition with machine intelligence for decisive, repeatable wins.</sub>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI%20Applications-0d1f2d?style=for-the-badge&logo=dependabot&logoColor=white" alt="Machine Learning &amp; AI Applications" /><br/>
+      <sub>Machine Learning &amp; AI Applications – Designing interpretable models for prediction, classification, and recommendation.</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Garage%20Toolkit-000000?style=for-the-badge&logo=gear&logoColor=white" alt="Garage Toolkit" /><br/>
-      <sub>Python, R, SQL, Spark, TensorFlow, PyTorch, Power BI, Tableau, Power Automate, SharePoint.</sub>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Data%20Engineering%20%26%20Automation-ff1801?style=for-the-badge&logo=azurepipelines&logoColor=white" alt="Data Engineering &amp; Automation" /><br/>
+      <sub>Data Engineering &amp; Automation – Building ETL pipelines and Power Automate workflows for real-time analytics.</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Telemetry%20Feed-555555?style=for-the-badge&logo=telegraph&logoColor=white" alt="Telemetry Feed" /><br/>
-      <sub>GPT copilots, adversarial ML, sentiment-aware chatbots, scientific visualization.</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Podium%20Stats-ffdf00?style=for-the-badge&logo=podcast&logoColor=black" alt="Podium Stats" /><br/>
-      <sub>98% course–job match accuracy, 60% faster advising, 100K+ customer journeys analyzed.</sub>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Visualization%20%26%20Insights-ffd700?style=for-the-badge&logo=tableau&logoColor=black" alt="Visualization &amp; Insights" /><br/>
+      <sub>Visualization &amp; Insights – Turning complex datasets into actionable dashboards with Tableau, Power BI, and Python.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔥 Current Race Pace
+## 💼 Experience
 
 <table>
   <tr>
-    <th>Lap</th>
+    <th align="left">Team</th>
+    <th align="left">Role</th>
+    <th align="left">Highlights</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/University%20of%20Utah-cc0000?style=flat-square&logo=ubiquiti&logoColor=white" alt="University of Utah" /></td>
+    <td><strong>Operations Liaison – Part Time</strong><br/><sub>Mar 2024 – Aug 2025</sub></td>
+    <td>
+      <ul>
+        <li>Coordinated operations for 160+ volunteers using Agile workflows.</li>
+        <li>Streamlined concession operations through iterative improvement and cross-team collaboration.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Freeze%20Dry%20Co.-4a90e2?style=flat-square&logo=snowflake&logoColor=white" alt="Freeze Dry Co." /></td>
+    <td><strong>Data Engineer</strong><br/><sub>May 2022 – Jan 2023</sub></td>
+    <td>
+      <ul>
+        <li>Automated ETL pipelines in Python, SQL, and Spark, cutting reporting lag by 20%.</li>
+        <li>Built ML anomaly detection models reducing QA false positives by 25%.</li>
+        <li>Created Power BI/Tableau dashboards that sped up executive decisions by 30%.</li>
+        <li>Optimized MySQL and Oracle databases for 40% faster query performance.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Spacetime-121212?style=flat-square&logo=spacex&logoColor=white" alt="Spacetime" /></td>
+    <td><strong>Data Scientist</strong><br/><sub>Apr 2021 – Mar 2022</sub></td>
+    <td>
+      <ul>
+        <li>Modeled 100K+ customer records to improve campaign ROI by 10%.</li>
+        <li>Built Random Forest and Neural Net models increasing forecast accuracy by 15%.</li>
+        <li>Deployed NLP pipeline achieving 90% precision on sentiment classification.</li>
+        <li>Collaborated with product and marketing teams to operationalize insights.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Projects
+
+<table>
+  <tr>
     <th>Project</th>
-    <th>What’s Happening in the Pit Lane</th>
-    <th>Stack</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/01-ff1801?style=flat-square" alt="Lap 01" /></td>
-    <td><strong>AI-Powered Syllabus-to-Job Recommendation System</strong></td>
-    <td>Automating MBA advising with GPT, Power Automate, and SharePoint. 98% match accuracy, 60% faster advising cycles.</td>
-    <td>Power Automate · SharePoint · GPT API</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/02-ff1801?style=flat-square" alt="Lap 02" /></td>
-    <td><strong>Adversarial Machine Learning for Malware Evasion</strong></td>
-    <td>Stress-testing antivirus engines with adversarial PE files built in TensorFlow, PyTorch, and MalGAN.</td>
-    <td>TensorFlow · PyTorch · MalGAN</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/03-ff1801?style=flat-square" alt="Lap 03" /></td>
-    <td><strong>AI Therapist Chatbot</strong></td>
-    <td>Sentiment-aware media recommendations with Flask, MySQL, and TensorFlow. 85% emotion classification accuracy.</td>
-    <td>Flask · MySQL · TensorFlow</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/04-ff1801?style=flat-square" alt="Lap 04" /></td>
-    <td><strong>Formula 1 Analytics Platform (2018–2024)</strong></td>
-    <td>Predictive race insights, forecasting, and a Gen-AI pit engineer for natural-language queries.</td>
-    <td>Python · Power BI</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/05-ff1801?style=flat-square" alt="Lap 05" /></td>
-    <td><strong>Sleep–Exercise Impact Prediction</strong></td>
-    <td>Decision Trees and clustering on Fitbit telemetry to map lifestyle to sleep quality.</td>
-    <td>Python · scikit-learn</td>
-  </tr>
-</table>
-
----
-
-## 🏎️ Career Pit Stops
-
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Teiko-001489?style=for-the-badge&logo=riseup&logoColor=white" alt="Teiko" /></td>
-    <td><strong>Bioinformatics Engineer – Teiko</strong><br/>Processed high-dimensional cytometry data from clinical trials and built ML-powered dashboards for immunology teams.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Freeze%20Dry%20Co.-4A90E2?style=for-the-badge&logo=snowflake&logoColor=white" alt="Freeze Dry Co." /></td>
-    <td><strong>R&D Data Engineering Intern – Freeze Dry Co.</strong><br/>Automated manufacturing telemetry ingestion and cleaning to monitor throughput; enabled statistical QA for new products.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Spacetime-121212?style=for-the-badge&logo=spacex&logoColor=white" alt="Spacetime" /></td>
-    <td><strong>Data Analyst Intern – Spacetime</strong><br/>Analyzed 100K+ customer journeys with SQL and Python, lifting forecast accuracy by 15% and shipping Tableau KPI pit walls.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Recursion%20Pharmaceuticals-FF0050?style=for-the-badge&logo=databricks&logoColor=white" alt="Recursion Pharmaceuticals" /></td>
-    <td><strong>Software Engineer – Recursion Pharmaceuticals</strong><br/>Delivered automation for high-throughput experimentation and collaborated on biological image-analysis platforms.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP" /></td>
-    <td><strong>SAP ABAP Developer (Past Role)</strong><br/>Engineered SmartForms, migration scripts, and enterprise reporting with end-to-end client collaboration.</td>
-  </tr>
-</table>
-
----
-
-## 🎓 Driver Academy
-
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/University%20of%20Utah-CC0000?style=for-the-badge&logo=academia&logoColor=white" alt="University of Utah" /></td>
-    <td><strong>M.S. in Data Science – University of Utah</strong><br/>Focus: Machine Learning, Advanced Databases, Scientific Visualization, Innovation Strategy.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Visvesvaraya%20Technological%20University-1E90FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="VTU" /></td>
-    <td><strong>B.Tech in Information Science and Engineering – Visvesvaraya Technological University</strong></td>
-  </tr>
-</table>
-
----
-
-## 🧰 Garage Inventory
-
-<details open>
-<summary><strong>Systems & Skills</strong></summary>
-
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Programming%20%26%20Data%20Science-ff1801?style=flat-square&logo=python&logoColor=white" alt="Programming & Data Science" /></td>
-    <td><strong>Programming & Data Science:</strong> Python, R, SQL, Spark, Bash, Git</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Libraries%20%26%20Frameworks-000000?style=flat-square&logo=pytorch&logoColor=white" alt="Libraries & Frameworks" /></td>
-    <td><strong>Libraries & Frameworks:</strong> Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Seaborn, Flask</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Analytics%20%26%20Visualization-555555?style=flat-square&logo=tableau&logoColor=white" alt="Analytics & Visualization" /></td>
-    <td><strong>Analytics & Visualization:</strong> Tableau, Power BI, Excel (Power Query, VBA), SharePoint, Power Automate</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Machine%20Learning-ffdf00?style=flat-square&logo=googlecloud&logoColor=black" alt="Machine Learning" /></td>
-    <td><strong>Machine Learning:</strong> Classification, Regression, Clustering, NLP, Adversarial ML, Time-Series Analysis</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Databases%20%26%20Systems-001489?style=flat-square&logo=mysql&logoColor=white" alt="Databases & Systems" /></td>
-    <td><strong>Databases & Systems:</strong> MySQL, PostgreSQL, Oracle, MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Platforms%20%26%20Ops-4A90E2?style=flat-square&logo=azuredevops&logoColor=white" alt="Platforms & Ops" /></td>
-    <td><strong>Platforms & Ops:</strong> Power Automate, Azure, AWS RDS, dbt, MLflow, Airflow</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Other%20Interests-121212?style=flat-square&logo=beats&logoColor=white" alt="Other Interests" /></td>
-    <td><strong>Other Interests:</strong> Prompt Engineering, Data Pipelines, Workflow Automation, Applied AI</td>
-  </tr>
-</table>
-
-</details>
-
----
-
-## 🧠 Racecraft
-
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Telemetry--decision%20loops-ff1801?style=flat-square&logo=insighttimer&logoColor=white" alt="Telemetry-to-decision loops" /></td>
-    <td><strong>Telemetry-to-decision loops:</strong> Build pipelines that surface actionable insights in real time.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Systems%20thinker-000000?style=flat-square&logo=datadog&logoColor=white" alt="Systems thinker" /></td>
-    <td><strong>Systems thinker:</strong> Integrates data, infrastructure, and stakeholder needs to remove bottlenecks.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Pit%20crew%20collaborator-555555?style=flat-square&logo=handshake&logoColor=white" alt="Pit crew collaborator" /></td>
-    <td><strong>Pit crew collaborator:</strong> Thrives alongside researchers, engineers, and product leaders.</td>
-  </tr>
-</table>
-
----
-
-## 🏆 Featured Grand Prix Projects
-
-<table>
-  <tr>
-    <th>Grand Prix</th>
-    <th>Race Story</th>
-    <th>Pit Wall Tech</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
   </tr>
   <tr>
     <td><strong>AI Course Recommendation Tool</strong></td>
-    <td>GPT-powered course-to-job matching automation for MBA advising.</td>
-    <td>Power Automate · GPT API</td>
+    <td>GPT-based system mapping courses to job roles via SharePoint integration, reducing manual advising time by 60%.</td>
+    <td>Power Automate, GPT API, SharePoint</td>
+  </tr>
+  <tr>
+    <td><strong>AI Therapist Chatbot</strong></td>
+    <td>Sentiment-aware chatbot recommending media content, 85% accuracy in emotion detection.</td>
+    <td>NLP, Flask, MySQL</td>
   </tr>
   <tr>
     <td><strong>Stock Price Prediction</strong></td>
-    <td>Combined regression, LSTM, and sentiment data to anticipate market moves.</td>
-    <td>Python · TensorFlow</td>
+    <td>LSTM &amp; regression ensemble forecasting with 12% improvement in accuracy.</td>
+    <td>TensorFlow, scikit-learn, Python</td>
   </tr>
   <tr>
     <td><strong>Uber Data Analytics</strong></td>
-    <td>Identified demand clusters and surge inefficiencies across 1M+ rides.</td>
-    <td>R · ggplot2 · tidyverse</td>
-  </tr>
-  <tr>
-    <td><strong>Scientific Visualization Literature Survey</strong></td>
-    <td>Mapped 10 AI-driven visualization papers across generation, visualization, and prediction.</td>
-    <td>LaTeX (ACM SIGMOD)</td>
+    <td>Analyzed 1M+ rideshare records to find demand clusters and pricing inefficiencies.</td>
+    <td>R, ggplot2, tidyverse</td>
   </tr>
 </table>
 
 ---
 
-## 🧩 Curiosity Corners
+## 🧩 Skills
 
 <table>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/AI%20for%20Scientific%20Visualization-ff1801?style=flat-square&logo=elasticstack&logoColor=white" alt="AI for Scientific Visualization" /></td>
-    <td><strong>AI for Scientific Visualization:</strong> Exploring how AI generates, explains, and augments complex visuals.</td>
+    <td align="left"><strong>Languages:</strong> Python, SQL, R, Bash, Spark, Git</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Database%20Systems%20%26%20Storage%20Design-000000?style=flat-square&logo=microgenetics&logoColor=white" alt="Database Systems & Storage Design" /></td>
-    <td><strong>Database Systems & Storage Design:</strong> Crafting in-memory and disk-backed stores with WAL, recovery, and LRU strategies.</td>
+    <td align="left"><strong>Machine Learning:</strong> scikit-learn, TensorFlow, PyTorch, XGBoost, NLP, Deep Learning</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Innovation%20%26%20Strategy-555555?style=flat-square&logo=apachespark&logoColor=white" alt="Innovation & Strategy" /></td>
-    <td><strong>Innovation & Strategy:</strong> Aligning data products with organizational runway and competitive edge.</td>
+    <td align="left"><strong>Visualization:</strong> Tableau, Power BI, Seaborn, Matplotlib, Plotly</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Data Systems:</strong> MySQL, Oracle, ETL Pipelines, SharePoint Integration</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Concepts:</strong> Predictive Modeling, Feature Engineering, A/B Testing, Time-Series Forecasting</td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Certifications:</strong> Six Sigma Green Belt (2024), Data Science 4 All – NIT Patna, Microsoft Data Analyst (In Progress)</td>
   </tr>
 </table>
 
 ---
 
-## 🚦 Next Formation Lap
+## 🎓 Education
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/University%20of%20Utah-cc0000?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="University of Utah" /><br/>
+      <strong>University of Utah – M.S. in Computational and Data Science (Aug 2023 – Aug 2025)</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Vardhaman%20College%20of%20Engineering-0b3d91?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Vardhaman College of Engineering" /><br/>
+      <strong>Vardhaman College of Engineering (India) – B.Tech in Information Technology (2018 – 2022)</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌱 What Drives Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Ph.D.%20Aspirations-ff1801?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Ph.D. Aspirations" />
-  <p>Pursuing a Ph.D. in Data Science to engineer intelligent automation systems that fuse human racecraft with machine learning for mission-critical decision support.</p>
+  <img src="https://img.shields.io/badge/Strategic%20Precision-ff1801?style=flat-square&logo=fastlane&logoColor=white" alt="Strategic Precision" />
+  <p>I love connecting technical precision with strategic thinking—whether it’s optimizing manufacturing pipelines, designing AI recommendation systems, or visualizing insights that guide business moves.</p>
 </div>
 
 ---
 
-## 📡 Radio Check
+## 📫 Connect With Me
 
 <table>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Email-ff1801?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></td>
-    <td><strong>Email:</strong> <a href="mailto:abhinavvv.d@gmail.com">abhinavvv.d@gmail.com</a></td>
+    <td>📧 Email: <a href="mailto:abhinavvv.d@gmail.com">abhinavvv.d@gmail.com</a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></td>
-    <td><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abhinavdumpala">linkedin.com/in/abhinavdumpala</a></td>
+    <td>💼 LinkedIn: <a href="https://linkedin.com/in/abhinavdumpala">linkedin.com/in/abhinavdumpala</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Location-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></td>
-    <td><strong>Location:</strong> Salt Lake City, Utah</td>
+    <td align="center"><img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></td>
+    <td>🌍 Portfolio (coming soon): <a href="https://github.com/abhinavdumpala">github.com/abhinavdumpala</a></td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting%20the%20garage%E2%80%94let%E2%80%99s%20build%20something%20worthy%20of%20the%20podium!-ff1801?style=for-the-badge&logo=fastlane&logoColor=white" alt="Sign off" /> 🏁
-</div>
