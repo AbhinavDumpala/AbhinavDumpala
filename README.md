@@ -1,18 +1,29 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/Data%20Scientist-Automation%20Engineer-3c1361?style=for-the-badge&logoColor=white" alt="Abhinav Dumpala" />
+
 # 👋 Hi, I'm Abhinav Dumpala
 
-**Data Science • Applied AI • Automation Engineering**
+**Designing intelligent systems that connect data, decisions, and people.**
 
-I'm a Master's student in Data Science at the University of Utah, passionate about solving real-world problems through data, automation, and AI-driven systems. My work blends data science, automation, and applied AI across business, healthcare, and research settings.
+I'm a Master's student in Data Science at the University of Utah building AI-driven solutions that automate workflows, surface insight, and amplify human expertise across business, healthcare, and research.
 
-[Email](mailto:abhinavvv.d@gmail.com) · [LinkedIn](https://linkedin.com/in/abhinavdumpala) · Salt Lake City, Utah
+<sub>[Email](mailto:abhinavvv.d@gmail.com) · [LinkedIn](https://linkedin.com/in/abhinavdumpala) · Salt Lake City, Utah</sub>
 
 </div>
 
 ---
 
-## 🧠 What I'm Working On
+## ⚡ Snapshot
+
+- 🎯 **Focus Areas:** Intelligent automation, applied machine learning, decision support systems
+- 🧪 **Experimenting With:** GPT-based copilots, adversarial ML, sentiment-aware chatbots
+- 📊 **Impact Highlights:** 98% course–job match accuracy, 60% faster advising cycles, 100K+ customer records analyzed
+- 🎓 **Current Mission:** Shape AI systems that blend human reasoning with automation for research and business impact
+
+---
+
+## 🧠 What I'm Building Now
 
 - **AI-Powered Syllabus-to-Job Recommendation System**  
   Built for the University of Utah's MBA Advising Office using Power Automate, SharePoint, and the GPT API. Automates course–job matching with 98% classification accuracy and reduces manual advising time by 60%.
@@ -28,6 +39,8 @@ I'm a Master's student in Data Science at the University of Utah, passionate abo
 ---
 
 ## 💼 Professional Experience
+
+> A multidisciplinary journey through biotech, manufacturing, startups, and enterprise automation.
 
 - **Bioinformatics Engineer – Teiko**  
   Processed high-dimensional cytometry data from clinical trials. Developed data pipelines, visualizations, and ML models for immunology research.
@@ -50,7 +63,10 @@ I'm a Master's student in Data Science at the University of Utah, passionate abo
 
 ---
 
-## 🧩 Skills
+## 🛠️ Tech & Tactics
+
+<details open>
+<summary><strong>Toolbox at a glance</strong></summary>
 
 - **Programming & Data Science:** Python, R, SQL, Spark, Bash, Git
 - **Libraries & Frameworks:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Seaborn, Flask
@@ -59,6 +75,16 @@ I'm a Master's student in Data Science at the University of Utah, passionate abo
 - **Databases & Systems:** MySQL, PostgreSQL, Oracle, MongoDB
 - **Tools & Platforms:** Power Automate, Azure, AWS RDS, dbt, MLflow, Airflow
 - **Other Interests:** Prompt Engineering, Data Pipelines, Workflow Automation, Applied AI
+
+</details>
+
+---
+
+## 🧠 Problem-Solving Superpowers
+
+- 🔍 **End-to-end insight loops:** Prototype to production pipelines that keep decision-makers in the loop.
+- 🧩 **Systems thinking:** Connects data, infrastructure, and user needs to eliminate bottlenecks.
+- 🤝 **Collaborative builder:** Comfortable working with researchers, engineers, and business partners alike.
 
 ---
 
